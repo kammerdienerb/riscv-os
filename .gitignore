@@ -1,0 +1,11 @@
+deps
+objs
+sbi/deps
+sbi/objs
+*.elf
+*.dsk
+user/*.bin
+user/*.elf
+user/*.a
+user/libc/*.o
+user/libc/*.a

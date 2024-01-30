@@ -1,0 +1,2 @@
+yedrc-load ../.yedrc
+set ctags-additional-paths "include/* ../src/include/*"
